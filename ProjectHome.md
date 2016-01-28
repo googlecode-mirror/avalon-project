@@ -1,0 +1,1 @@
+This project is an access-level based long term storage and retrieval system using key:value setters, and key getters. You can create a complete web application API with very little effort.
